@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="text_1">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="title_activity_about">About ALC</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="names">MAHORO Pierratono Costa</string>
+</resources>
